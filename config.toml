@@ -48,7 +48,7 @@ pygmentsuseclasses         = true
  
 
 [params]
-  faviconfile              = "img/favicon_io/favicon-32x32.png"               # from static/
+  faviconfile              = "img/ErinOrstrom_favicon.png"               # from static/
   avatar                   = "img/2016_05_19_NSS_Cohort_12_0274_T_cropped.jpg"             # path to image in static dir e.g img/avatar.png 
   author                   = "Erin Orstrom"
   description              = ["Technology Professional", "Product Owner. Software Developer. Data Investigator.", "Traveler. Video Gamer. Avid Reader. Life-long Learner."]           # appears in the site header when set to a non-empty string
