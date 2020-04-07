@@ -1,7 +1,7 @@
 ---
 title: Blog
 description: 'Blog Section'
-draft: true
+draft: false
 ---
 
-You'll add here a general introduction of your blog posts.
+Erin's blog posts, musings, and life experiences.

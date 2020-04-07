@@ -10,7 +10,7 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Erin :wave:"
+  main = "Hi, I'm Erin! :wave:"
   sub = "Technology Professional. Product Owner. Software Developer. Data Investigator. Traveler. Video Gamer. Avid Reader. Life-long Learner."
 
 [taxonomies]
