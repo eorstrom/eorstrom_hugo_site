@@ -4,10 +4,9 @@ draft = false
 title = "About"
 
 +++
-Hi, I'm Erin!  
-So, what's my story?
+Hi, I'm Erin! So, what's my story?
 
-#### Professional Career ####
+### Professional Career ###
 
 A little bit about how I stumbled into the web and software development world:
 
@@ -42,7 +41,7 @@ You can read more about my professional roles and experience on my
 <a href="https://www.linkedin.com/in/erinorstrom/" target="_blank">LinkedIn profile</a>.
 (Or ask me about it!)
 
-#### Podcasting ####
+### Podcasting ###
 
 In November of 2016, I was a guest for the first time on the
 <a href="https://completedeveloperpodcast.com/" target="_blank">Complete Developer Podcast</a>,
@@ -68,10 +67,10 @@ from September 2017 until April 2019.
 We dove deep into issues affecting new and junior-level programmers in the workplace and beyond and shared our experiences and knowledge in hopes of
 helping others find their way and break into the software development field.
 
-#### Everything Else ####
+### Everything Else ###
 
 To be filled in later. 😊
 
-#### Want to Connect? Contact Me ####
+### Want to Connect? Contact Me ###
 
 {{< contact-form >}}
