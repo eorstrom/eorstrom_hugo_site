@@ -2,7 +2,7 @@ baseURL = "https://ErinOrstrom.com/"
 languageCode = "en-us"
 title = "Erin Orstrom"
 theme = "personal-web"
-copyright="Personal Web theme © Edna West. Website © Erin Orstrom, 2020."
+copyright="Sidebar photo by Sacha Styles on Unsplash. Website © Erin Orstrom, {year}."
 googleAnalytics = "UA-81706954-1"
 enableEmoji=true
 enableRobotsTXT=true
@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, I'm Erin! :wave:"
-  sub = "Technology Professional. Product Owner. Software Developer. Data Investigator. Traveler. Video Gamer. Avid Reader. Life-long Learner."
+  sub = "Technology Professional 👩🏼‍💻. Product Owner 📝. Software Developer 💻. Traveler ✈️. Video Gamer 🎮. Avid Reader 📖. Life-long Learner 💡."
 
 [taxonomies]
   design = "designs"
@@ -41,7 +41,7 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "img/2016_05_19_NSS_Cohort_12_0274_T_cropped.jpg" # - default "/images/edna-west.jpg"
+  logo = "img/2016_05_19_NSS_Cohort_12_0274_T_cropped_246x246.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = "img/ErinOrstrom_favicon.png"
   customCSS = ""
@@ -70,20 +70,27 @@ pygmentsCodeFences=true
   name = "About"
   title = "About section"
   url = "/about/"
-  weight = -120
+  weight = -130
 
 [[menu.main]]
   identifier = "portfolio"
   name = "Portfolio"
   title = "Portfolio"
   url = "/portfolio/"
-  weight = -110
+  weight = -120
 
 [[menu.main]]
   identifier = "blog"
   name = "Blog"
   title = "Blog section"
   url = "/post/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  title = "Contact section"
+  url = "/contact/"
   weight = -100
 
 [sitemap]
