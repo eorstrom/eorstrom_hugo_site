@@ -4,6 +4,7 @@ draft = false
 title = "About"
 
 +++
+
 Hi, I'm Erin! So, what's my story?
 
 ### Professional Career ###
@@ -71,6 +72,4 @@ helping others find their way and break into the software development field.
 
 To be filled in later. 😊
 
-### Want to Connect? Contact Me ###
-
-{{< contact-form >}}
+### Want to Connect? <a href="/contact/">Contact Me</a>###
