@@ -1,5 +1,6 @@
 ---
-title: "To Bootcamp? Or Not To Bootcamp? Deep Dive into Erin's NSS Experience"
+title: To Bootcamp? Or Not To Bootcamp? Deep Dive into Erin's NSS Experience
+description: Deep Dive into Erin's Nashville Software School Experience
 date: 2019-03-12T22:09:00-05:00
 publishedDate: 2019-03-12T22:09:00-05:00
 draft: false
