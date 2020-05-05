@@ -5,6 +5,8 @@ title = "About"
 
 +++
 
+{{< crystal-knows-profile >}}
+
 Hi, I'm Erin! So, what's my story?
 
 ### Professional Career ###
@@ -61,7 +63,7 @@ Since then, I have been a guest on three additional episodes of the Complete Dev
 * and the episode where we announced the launch of a podcast in which I was previously a cohost -
 <a href="https://completedeveloperpodcast.com/episode-107/" target="_blank">Junior Developer Toolbox</a>.
 
-<a href="https://juniordevelopertoolbox.com/" target="_blank">Junior Developer Toolbox</a>
+[Junior Developer Toolbox](/portfolio/junior-developer-toolbox/)
 was a podcast all about getting started in and surviving a career in software engineering which I co-hosted with my friend
 <a href="https://www.linkedin.com/in/daveharned/" target="_blank">Dave Harned</a>
 from September 2017 until April 2019.
