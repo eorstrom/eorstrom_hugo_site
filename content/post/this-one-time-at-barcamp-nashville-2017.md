@@ -1,6 +1,6 @@
 ---
 title: "This One Time at BarCamp Nashville 2017"
-description: 
+description: BarCamp Nashville 2017 summary
 date: 2017-10-04T20:31:00-05:00
 publishedDate: 2017-10-04T20:31:00-05:00
 draft: false
