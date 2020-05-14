@@ -25,7 +25,7 @@ Now, a bit of explanation before the next step, because this is something that c
 
 I then deleted pretty much everything from my current site except for the CNAME and ReadMe.md files, since the structure wouldn't play well with Hugo's site structure and were no longer needed.
 
-After you've made changes to your Hugo site, you have to generate new static files to push to your site's repository. To do this, the steps I took were to clone my site repo (https://github.com/eorstrom/eorstrom.github.io) into my Hugo site project, name the folder to public, and used the command 
+After you've made changes to your Hugo site, you have to generate new static files to push to your site's repository. To do this, the steps I took were to clone my site repo (https://github.com/eorstrom/eorstrom.github.io) into my Hugo site project, name the folder to public, and used the command
 
 ```hugo -t personal-web```
 
