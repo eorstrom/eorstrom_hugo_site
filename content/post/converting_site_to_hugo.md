@@ -3,7 +3,7 @@ title: How I Converted My Existing Website to Use Hugo
 description: A guide on how I converted my existing website to use Hugo, a static site generator
 date: "2020-05-12T22:11:50-05:00"
 publishDate: "2020-05-14T11:30:00-05:00"
-draft: true
+draft: false
 ---
 
 I wanted to write this post as a guide on how I converted my website to use <a href='https://gohugo.io/' target='_blank'>Hugo</a>, a static site generator, in order to host blog posts without using a CMS like WordPress. When I was looking for resources and guides on how to build a Hugo site, nearly every resource I ran across was a guide on how to build a Hugo site from scratch. Which is great because that's where most people start from. However, because I already had an existing site, I couldn't follow many of these guides step-by-step and get the desired results. I scrapped and started over so many times I lost count. This guide may not work for everyone who wants to convert their site to use Hugo, and some of it is a little hackey I'll admit, but it's what worked for me.
