@@ -3,6 +3,7 @@
   <link rel='canonical' href='{{ .Permalink }}' />
   {{ partial "head/meta" .}}
   {{ partial "head/style" .}}
+  {{ partial "google/tag-manager-head.html" . }}
   {{ partial "google/analytics" . }}
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/schema.html" . }}
