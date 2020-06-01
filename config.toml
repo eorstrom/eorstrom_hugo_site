@@ -21,6 +21,9 @@ pygmentsCodeFences=true
 [blackfriday]
   hrefTargetBlank = true
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [params]
   breadcrumb = true
   accentColor = "#FD3519"
