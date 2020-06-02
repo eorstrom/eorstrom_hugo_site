@@ -1,3 +1,4 @@
 .vscode/
 themes/personal-web
 public/
+.markdownlint.json
