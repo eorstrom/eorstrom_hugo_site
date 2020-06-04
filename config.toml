@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, I'm Erin! :wave:"
-  sub = "Technology Professional 👩🏼‍💻. Product Owner 📝. Software Developer 💻. Traveler ✈️. Video Gamer 🎮. Avid Reader 📖. Life-long Learner 💡."
+  sub = "Technology Professional 👩🏼‍💻. </br> Product Owner 📝.</br> Software Developer 💻.</br> World Traveler ✈️.</br> Video Gamer 🎮.</br> Avid Reader 📖.</br> Life-long Learner 💡."
 
 [taxonomies]
   design = "designs"
