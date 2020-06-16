@@ -74,4 +74,4 @@ helping others find their way and break into the software development field.
 
 To be filled in later. 😊
 
-### Want to Connect? <a href="/contact/">Contact Me</a>###
+### Want to Connect? <a href="/contact/">Contact Me</a> ###
