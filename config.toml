@@ -29,7 +29,7 @@ pygmentsCodeFences=true
   accentColor = "#FD3519"
   mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed below 404
 
-  custom_css               = ["css/form.css", "css/custom.css"]
+  custom_css               = ["css/form.css", "css/sharing-buttons.css"]
 
 [params.notFound]
   gopher = "/images/gopher.png" # checkout https://gopherize.me/
